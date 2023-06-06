@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SpSa-HEIDI. You can call me Spoorthi
+- 👀 I’m interested in fullstack development.
+- 🌱 I’m currently learning Fullstack technologies.
+- 📫 How to reach me spoorthi@heidi-app.de or spoorthy.madhavan@gmail.com
