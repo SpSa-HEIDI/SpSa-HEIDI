@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @SpSa-HEIDI. You can call me Spoorthi
 - 👀 I’m interested in fullstack development.
-- 🌱 I’m currently learning Fullstack technologies.
+- 🌱 I’m currently learning Fullstack technologies such as NodeJs, ReactJs, MySQL, Python, Typescript.
 - 📫 How to reach me spoorthi@heidi-app.de or spoorthy.madhavan@gmail.com
